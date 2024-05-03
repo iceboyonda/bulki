@@ -69,7 +69,7 @@
 
 .u-section-2 .u-list-1 {
   width: 860px;
-  margin: 29px auto 0;
+  margin: 29px auto 60px;
 }
 
 .u-section-2 .u-repeater-1 {
@@ -178,13 +178,6 @@
 
 .u-section-2 .u-text-7 {
   margin: 27px auto 0;
-}
-
-.u-section-2 .u-btn-1 {
-  background-image: linear-gradient(#f9e79b, #b29a36);
-  --radius: 18px;
-  font-weight: 700;
-  margin: 28px auto 60px;
 }
 
 @media (max-width: 991px) {
